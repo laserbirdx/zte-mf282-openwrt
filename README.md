@@ -2,7 +2,12 @@
 
 # OpenWrt on ZTE MF282 ("3HuiTube")
 
-![OpenWrt: 25.12.5 (ath79/nand)](https://img.shields.io/badge/OpenWrt-25.12.5%20(ath79%2Fnand)-00B5E2?logo=openwrt&logoColor=white) ![device: ZTE MF282 (3HuiTube)](https://img.shields.io/badge/device-ZTE%20MF282%20(3HuiTube)-informational) ![U-Boot: Untouched](https://img.shields.io/badge/U--Boot-Untouched-brightgreen) ![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenWrt-25.12.5%20%28ath79%2Fnand%29-00B5E2?logo=openwrt&logoColor=white" alt="OpenWrt: 25.12.5 (ath79/nand)" />
+  <img src="https://img.shields.io/badge/device-ZTE%20MF282%20%283HuiTube%29-informational" alt="device: ZTE MF282 (3HuiTube)" />
+  <img src="https://img.shields.io/badge/U--Boot-Untouched-brightgreen" alt="U-Boot: Untouched" />
+  <img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="license: CC BY 4.0" />
+</p>
 
 Installation guide for official OpenWrt 25.12.5 on the ZTE MF282 LTE router, sold by the
 Austrian operator Drei as **3HuiTube**. OpenWrt is installed from the stock root shell,
